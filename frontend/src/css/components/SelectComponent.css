@@ -1,0 +1,20 @@
+.SelectA {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+  
+  .SelectA>label {
+    color: var(--color5);
+    font-family: Cocogoose;
+  }
+  
+  .SelectA>select {
+    border: none !important;
+    border-bottom: solid 1px var(--color5) !important;
+    width: 260px;
+    margin-bottom: 30px;
+    color: var(--color5);
+    font-size: 0.8rem;
+  }

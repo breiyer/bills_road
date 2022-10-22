@@ -1,0 +1,25 @@
+.InputA {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.InputA>label {
+  color: var(--color5);
+  font-family: Cocogoose;
+}
+
+.InputA>input {
+  border: none !important;
+  border-bottom: solid 1px var(--color5) !important;
+  width: 260px;
+  margin-bottom: 30px;
+  color: var(--color5);
+  font-size: 0.8rem;
+}
+
+.InputA>input::placeholder {
+  color: var(--color5);
+  font-size: 0.8rem;
+}

@@ -1,0 +1,24 @@
+.ProfilePicture {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  gap: 5px;
+}
+
+.ProfilePicture__name {
+  color: var(--color2);
+  font-size: 1.3rem;
+  display: inline-block;
+  width: max-content;
+}
+
+.ProfilePicture__img {
+  width: 40px;
+}
+
+#dropdown-basic {
+  background-color: transparent;
+  border-radius: none;
+  border: none;
+}

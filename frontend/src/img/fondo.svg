@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_4">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_4" data-name="Web 1920 – 4" clip-path="url(#clip-Web_1920_4)">
+    <rect width="1920" height="1080" fill="#98a8f8"/>
+    <path id="Trazado_3" data-name="Trazado 3" d="M0,780s776.842-23.684,1125.789-110.526,795.79,127.895,795.79,127.895V1080H0Z" transform="translate(1921.579 1072.792) rotate(180)" fill="rgba(188,206,248,0.43)"/>
+    <path id="Trazado_1" data-name="Trazado 1" d="M0,780s805.263,42.632,1133.684,118.421,787.895-101.053,787.895-101.053V1080H0Z" fill="#bccef8"/>
+    <ellipse id="Elipse_1" data-name="Elipse 1" cx="240" cy="226.5" rx="240" ry="226.5" transform="translate(1300 314)" fill="rgba(205,252,246,0.57)"/>
+    <path id="Trazado_2" data-name="Trazado 2" d="M0,780s776.842-23.684,1125.789-110.526,795.79,127.895,795.79,127.895V1080H0Z" fill="rgba(188,206,248,0.43)"/>
+    <ellipse id="Elipse_2" data-name="Elipse 2" cx="52" cy="46" rx="52" ry="46" transform="translate(225 314)" fill="#bccef8"/>
+    <ellipse id="Elipse_3" data-name="Elipse 3" cx="55" cy="42.5" rx="55" ry="42.5" transform="translate(192 339)" fill="#bccef8"/>
+    <ellipse id="Elipse_4" data-name="Elipse 4" cx="61" cy="46" rx="61" ry="46" transform="translate(241 339)" fill="#bccef8"/>
+    <ellipse id="Elipse_5" data-name="Elipse 5" cx="52" cy="46" rx="52" ry="46" transform="translate(651 50)" fill="#bccef8"/>
+    <ellipse id="Elipse_6" data-name="Elipse 6" cx="55" cy="42.5" rx="55" ry="42.5" transform="translate(618 75)" fill="#bccef8"/>
+    <ellipse id="Elipse_7" data-name="Elipse 7" cx="61" cy="46" rx="61" ry="46" transform="translate(667 75)" fill="#bccef8"/>
+    <ellipse id="Elipse_11" data-name="Elipse 11" cx="52" cy="46" rx="52" ry="46" transform="translate(1363 278)" fill="#bccef8"/>
+    <ellipse id="Elipse_12" data-name="Elipse 12" cx="55" cy="42.5" rx="55" ry="42.5" transform="translate(1330 303)" fill="#bccef8"/>
+    <ellipse id="Elipse_13" data-name="Elipse 13" cx="61" cy="46" rx="61" ry="46" transform="translate(1379 303)" fill="#bccef8"/>
+    <ellipse id="Elipse_14" data-name="Elipse 14" cx="52" cy="46" rx="52" ry="46" transform="translate(1704 76)" fill="#bccef8"/>
+    <ellipse id="Elipse_15" data-name="Elipse 15" cx="55" cy="42.5" rx="55" ry="42.5" transform="translate(1671 101)" fill="#bccef8"/>
+    <ellipse id="Elipse_16" data-name="Elipse 16" cx="61" cy="46" rx="61" ry="46" transform="translate(1720 101)" fill="#bccef8"/>
+  </g>
+</svg>

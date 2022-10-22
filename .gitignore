@@ -1,6 +1,6 @@
 # Front
 # dependencies
-/node_modules
+**/node_modules
 /.pnp
 .pnp.js
 
@@ -22,5 +22,5 @@ yarn-debug.log*
 yarn-error.log*
 
 # Back
-/__pycache__
-/migrations
+**/__pycache__
+**/migrations

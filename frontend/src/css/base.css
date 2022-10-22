@@ -1,0 +1,133 @@
+@font-face {
+  font-family: Cocogoose;
+  src: url(../fonts/Cocogoose\ Pro\ Thin-trial.ttf);
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url(../fonts/Roboto-Regular.ttf);
+}
+
+* {
+  --color1: #b1b2ff;
+  --color1_transp: rgb(188, 206, 248, 0.3);
+  --color2: #cdfcf6;
+  --color3: #eef1ff;
+  --color5: #7c83fd;
+  --color6: #96baff;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+  outline: none;
+  border: none;
+  font-weight: normal;
+  font-family: Roboto;
+}
+
+.TitleCoco {
+  font-family: Cocogoose;
+  font-weight: bold;
+}
+
+.AppContainer {
+  height: 100vh;
+  background-image: url("../img/fondo.svg");
+  background-size: cover;
+  overflow-y: auto;
+}
+
+.FormContainer {
+  background-color: white;
+  border-radius: 25px;
+}
+
+.FormContainer2 {
+  background-color: white;
+  border-radius: 25px;
+  min-height: 80vh;
+}
+.FormContainer3 {
+  border-radius: 25px;
+  min-height: 80vh;
+}
+
+.TitleContainer {
+  padding: 2.25rem;
+  border-radius: 26px;
+  background-color: var(--color1_transp);
+}
+
+.Title {
+  color: var(--color1);
+  font-size: 1rem;
+}
+
+.TitleApp {
+  color: var(--color2);
+  font-size: 1rem;
+  width: max-content;
+}
+
+.Title2 {
+  color: var(--color3);
+  font-size: 2rem;
+}
+.Title3 {
+  color: var(--color2);
+  font-size: 2rem;
+}
+
+.LinkLabel {
+  color: var(--color5);
+  font-size: 0.8rem;
+}
+
+.ImgF {
+  height: 80px;
+  width: 110px;
+}
+
+.FormGroup {
+  padding: 2rem;
+}
+
+.TitlesContainer {
+  position: relative;
+  padding: 0;
+}
+
+.Title2Above {
+  color: var(--color2);
+  font-size: 2rem;
+  position: absolute;
+  left: 0;
+  top: -50px;
+}
+.Tarjetas {
+  background-color: white;
+  border-radius: 25px;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.ImgH {
+  height: 25px;
+  width: 25px;
+  vertical-align: text-bottom;
+  cursor: pointer;
+}
+
+.CardsContainer {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 2rem;
+  padding: 0;
+  padding-bottom: 2rem;
+}

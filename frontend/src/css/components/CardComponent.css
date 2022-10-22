@@ -1,0 +1,49 @@
+.XCard {
+  width: 30rem;
+  height: 25rem;
+  background-color: white;
+  border-radius: 25px;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto 1fr;
+}
+
+.XCard-header {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-rows: 1fr;
+  gap: 0.3rem;
+}
+
+.XCard-title {
+  color: var(--color1);
+  font-size: 1.25rem;
+  font-family: Cocogoose;
+  padding: 1rem 0 0 1rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.XCardIcon {
+  width: 110px;
+}
+
+.XCard:hover {
+  box-shadow: 5px 10px 20px 1px rgba(255, 255, 255, 0.273) !important;
+  transition: all 0.7s linear;
+}
+
+.XCard-body {
+  padding: 2rem 0 !important;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+}
+
+.XCard-text {
+  padding: 0.3rem 1rem;
+  font-size: 1rem;
+  font-family: Cocogoose;
+  color: var(--color1);
+}
