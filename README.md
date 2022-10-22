@@ -37,4 +37,23 @@ Por defecto, la aplicación se ejecuta en el puerto 80 de [su servidor local](ht
 No es necesario configurar la aplicación para que esta funcione, una vez instalada, esta cuenta con las configuraciones necesarias para su correcto funcionamiento.
 
 **Variables de entorno**
-Las variables de entorno para configurar las conexiones del proyecto se encuentran en el archivo [/.env](https://github.com/breiyer/bills_road/blob/master/.env) del proyecto.
+
+Las variables de entorno para configurar las conexiones del proyecto se encuentran en el archivo [/.env](https://github.com/breiyer/bills_road/blob/master/.env) del proyecto..
+
+
+
+
+## Usuarios por defecto
+---
+Inicialmente el proyecto cuenta con dos usuarios:
+- Usuario admin:
+    - username: admin
+    - password: admin
+    - correo: admin@admin.com
+- Usuario sin permisos:
+    - username: common
+    - password: common
+    - correo: common@common.com
+
+Si se pretende hacer uso de la funcionalidad de recuperar contraseña, se debe cambiar manualmente desde la base de datos
+el correo del usuario objetivo, se le debe asignar un correo existente para que el email de recuperación pueda ser enviado.
